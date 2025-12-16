@@ -1,0 +1,23 @@
+/* main.css */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+}
+
+h1, h2, h3 {
+  color: #333;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  color: #fff;
+  border-radius: 4px;
+  padding: 8px 12px;
+  text-decoration: none;
+}
+
+.table {
+  border-collapse: collapse;
+  width: 100%;
+}

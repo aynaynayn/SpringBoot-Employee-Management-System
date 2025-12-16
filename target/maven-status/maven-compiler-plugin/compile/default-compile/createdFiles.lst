@@ -1,0 +1,13 @@
+com\group10\LocationApi\repository\AttendanceRepository.class
+com\group10\LocationApi\model\Attendance.class
+com\group10\LocationApi\repository\DepartmentRepository.class
+com\group10\LocationApi\model\Employee.class
+com\group10\LocationApi\repository\EmployeeRepository.class
+com\group10\LocationApi\model\Department.class
+com\group10\LocationApi\controller\EmployeeRestController.class
+com\group10\LocationApi\service\EmployeeService.class
+com\group10\LocationApi\service\AttendanceService.class
+com\group10\LocationApi\controller\WebController.class
+com\group10\LocationApi\controller\AttendanceRestController.class
+com\group10\LocationApi\DemoApplication.class
+com\group10\LocationApi\service\DepartmentService.class
